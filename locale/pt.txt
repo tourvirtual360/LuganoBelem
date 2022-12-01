@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Chocolate Lugano
+
+### Title
+tour.name = Lugano Belém Batista Campos
+
+## Skin
+
+### Button
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = FACHADA
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = FACHADA
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = ÁREA INFANTIL
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = ÁREA INFANTIL
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = SALÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = SALÃO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = ÁREA INTERNA
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = ÁREA INTERNA
+
+## Media
+
+### Title
+panorama_C145295C_CBDC_408F_41A9_CF92C2EED7C6.label = (1)
+panorama_C180F692_CBDF_C19B_41CD_DEF400DB2649.label = (7)
+panorama_C181051B_CBDF_C089_418D_9FC745F3D97B.label = (6)
+panorama_C18123AD_CBDC_4789_41B6_E2C3446EF0E8.label = (3)
+panorama_C181546D_CBDC_4089_41D4_0F9D8CCA8B93.label = (4)
+panorama_C182D18C_CBDC_4388_41DA_AEBF7694E1F2.label = (8)
+panorama_C1835FA7_CBDC_FFB9_41C0_1B677391D923.label = (10)
+panorama_C1838366_CBDC_40BB_41E1_4226F7E0074F.label = (13)
+video_D51E6334_CC6D_C09F_41E3_425EBF8B6A0E.label = IMG_7040 (1)
+
+## Action
+
+### URL
+LinkBehaviour_317793E5_223C_90B2_416B_D4255598045A.source = https://wa.link/qa3b0t
+LinkBehaviour_318F3AF8_2233_9092_419E_5A3E6AE0064D.source = https://goo.gl/maps/FWUGV1EBvVQXyz3t5
+LinkBehaviour_367B7674_223C_9391_41AA_5D76E73215A5.source = https://www.instagram.com/chocolatelugano.bATISTACAMPOS/
+LinkBehaviour_D9257D86_CC24_4078_41C5_8ECAE138E8F9.source = https://www.instagram.com/chocolatelugano.batistacampos/
+LinkBehaviour_D93AAD87_CC24_4078_41C3_C382A16C4343.source = https://goo.gl/maps/FWUGV1EBvVQXyz3t5
+LinkBehaviour_D93BCD84_CC24_4078_41DE_25A781B350E7.source = https://wa.link/qa3b0t
+LinkBehaviour_DB93094D_CC64_4088_41DD_EDB53BD9E79D.source = https://www.ifood.com.br/delivery/belem-pa/lugano-batista-campos-batista-campos/028b2453-0508-4efd-bfa4-b3ef746ba5c6?UTM_Medium=share
